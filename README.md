@@ -1,2 +1,2 @@
 # rnxupddata
-russelnx update data repo
+russellnx update data repo
